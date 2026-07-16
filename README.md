@@ -1,4 +1,4 @@
-# AI Strategy Backtesting Platform
+# AI Strategy Backtesting Platform (in production)
 
 Describe a trading strategy in plain English, get a trustworthy backtest: faithful schema translation with a confirm-before-run recap, engine-computed metrics passed through unmodified, an interactive chart of trades and indicators, and an honest AI interpretation.
 
